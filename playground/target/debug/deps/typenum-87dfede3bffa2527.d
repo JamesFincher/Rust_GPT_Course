@@ -1,0 +1,18 @@
+/workspaces/Rust_GPT_Course/playground/target/debug/deps/typenum-87dfede3bffa2527.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/bit.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/int.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/marker_traits.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/operator_aliases.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/private.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/type_operators.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/uint.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/array.rs /workspaces/Rust_GPT_Course/playground/target/debug/build/typenum-cbe18890ef944a90/out/op.rs /workspaces/Rust_GPT_Course/playground/target/debug/build/typenum-cbe18890ef944a90/out/consts.rs
+
+/workspaces/Rust_GPT_Course/playground/target/debug/deps/typenum-87dfede3bffa2527.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/bit.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/int.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/marker_traits.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/operator_aliases.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/private.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/type_operators.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/uint.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/array.rs /workspaces/Rust_GPT_Course/playground/target/debug/build/typenum-cbe18890ef944a90/out/op.rs /workspaces/Rust_GPT_Course/playground/target/debug/build/typenum-cbe18890ef944a90/out/consts.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/bit.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/int.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/marker_traits.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/operator_aliases.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/private.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/type_operators.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/uint.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/typenum-1.16.0/src/array.rs:
+/workspaces/Rust_GPT_Course/playground/target/debug/build/typenum-cbe18890ef944a90/out/op.rs:
+/workspaces/Rust_GPT_Course/playground/target/debug/build/typenum-cbe18890ef944a90/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/workspaces/Rust_GPT_Course/playground/target/debug/build/typenum-cbe18890ef944a90/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/workspaces/Rust_GPT_Course/playground/target/debug/build/typenum-cbe18890ef944a90/out/op.rs
